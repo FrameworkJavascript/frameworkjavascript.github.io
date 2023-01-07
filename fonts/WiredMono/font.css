@@ -1,0 +1,27 @@
+@font-face {
+	font-family: wired-mono;
+	font-style: normal;
+	font-weight: normal;
+	src: url("WiredMono-Regular.woff") format("woff"), url("WiredMono-Regular.woff2") format("woff2")
+}
+
+@font-face {
+	font-family: wired-mono-bold;
+	font-style: normal;
+	font-weight: bold;
+	src: url("WiredMono-Bold.woff") format("woff"), url("WiredMono-Bold.woff2") format("woff2")
+}
+
+@font-face {
+	font-family: wired-mono-light;
+	font-style: normal;
+	font-weight: lighter;
+	src: url("WiredMono-Light.woff") format("woff"), url("WiredMono-Light.woff2") format("woff2")
+}
+
+@font-face {
+	font-family: wired-mono-100;
+	font-style: normal;
+	font-weight: 100;
+	src: url("WiredMono-Thin.woff") format("woff"), url("WiredMono-Thin.woff2") format("woff2")
+}
